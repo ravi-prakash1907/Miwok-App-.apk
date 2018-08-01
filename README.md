@@ -5,4 +5,4 @@
 ### It's a transilation app that transilates few common Miwok (a tribe) language words/phreases into English.
 
 
-#### by Ravi Prakash ( https://linktr.ee/ravi_prakash1907 )
+#### join Ravi Prakash ( https://linktr.ee/ravi_prakash1907 )
